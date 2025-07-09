@@ -36,8 +36,8 @@ WHERE id = 4;
 
 ### Q5: What does the HEADER option in the COPY statement do?
 
-- A. Specifies the header for the CSV file (Ans)
-- B. Specifies whether to include a header row in the CSV file
+- A. Specifies the header for the CSV file
+- B. Specifies whether to include a header row in the CSV file (Ans)
 - C. Specifies the delimiter for the CSV file 
 - D. Specifies the table to export data from
 
